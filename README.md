@@ -1,2 +1,2 @@
 # LeetCode-Practice-Sessions
-This repository is for practicing the LeetCode problems to help sharpen my coding skills.
+This repository is for practicing  LeetCode problems to help sharpen my coding skills.
